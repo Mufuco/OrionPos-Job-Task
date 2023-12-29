@@ -119,7 +119,7 @@ const Card = ({ selectedItem }) => {
                       type="text"
                       className="form-control"
                       id="Surname"
-                      style={{ width: '55%', marginRight: '1rem', fontSize: '1.2rem', color: '#B5B5B6' }}
+                      style={{ width: '55%', marginRight: '1rem', fontSize: '1.2rem'}}
                       value={formData.soyad}
                       onChange={(e) => handleInputChange('soyad', e.target.value)}
                     />
