@@ -1,0 +1,17 @@
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectory.Infastructure.deps.json
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectory.Infastructure.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectory.Infastructure.pdb
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectory.Application.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectoryAPI.Domain.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectory.Application.pdb
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\bin\Debug\net6.0\OrionDirectoryAPI.Domain.pdb
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.csproj.AssemblyReference.cache
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.AssemblyInfoInputs.cache
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.AssemblyInfo.cs
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.csproj.CopyComplete
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\refint\OrionDirectory.Infastructure.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\OrionDirectory.Infastructure.pdb
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Infastructure\OrionDirectory.Infastructure\obj\Debug\net6.0\ref\OrionDirectory.Infastructure.dll

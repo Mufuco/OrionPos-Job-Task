@@ -1,0 +1,12 @@
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\bin\Debug\net6.0\OrionDirectoryAPI.Domain.deps.json
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\bin\Debug\net6.0\OrionDirectoryAPI.Domain.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\bin\Debug\net6.0\OrionDirectoryAPI.Domain.pdb
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.AssemblyInfo.cs
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\refint\OrionDirectoryAPI.Domain.dll
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\OrionDirectoryAPI.Domain.pdb
+C:\Users\mfurk\Desktop\OrionAPI\OrionDirectoryAPI\Core\OrionDirectoryAPI.Domain\obj\Debug\net6.0\ref\OrionDirectoryAPI.Domain.dll

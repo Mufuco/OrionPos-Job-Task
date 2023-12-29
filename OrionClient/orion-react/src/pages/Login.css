@@ -1,0 +1,15 @@
+.container{
+    background-color: #303641;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+}
+.HeaderDiv{
+    margin-top: 230px;
+    margin-left: 230px;
+}
+.FormDiv{
+    margin-top: 470px;
+    margin-left: 130px;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XcIR5460FEtgkytiEOeDLD7kOjMCXcrOhCVykOpBNjI=",
+  "Source": "OrionDirectory.API",
+  "BasePath": "_content/OrionDirectory.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

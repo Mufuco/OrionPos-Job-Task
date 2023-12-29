@@ -1,0 +1,33 @@
+h2{
+    color:white;   
+}
+.LoginSpan{
+    font-size: 15px; /* Yazı karakterini büyütür */
+    color:white;   
+}
+input {
+    border-radius: 5px; /* Yalnızca köşeleri oval hale getiren değer */    
+    border: 1px solid #ccc; /* İsteğe bağlı: Kenarlık ekleyebilirsiniz */
+    outline: none; /* İsteğe bağlı: Odaklanıldığında varsayılan odak çerçevesini kaldırır */
+    box-sizing: border-box;
+    margin-top: 5px; /* Inputlar arasına boşluk ekler */
+}
+
+.Form {
+    text-align: center; /* Inputları ortalamak için */
+}
+
+label {
+    display: block; 
+    margin-bottom: 1px; 
+}
+.Password{
+    margin-left: 49px;
+}
+.RememberMe{
+    margin-left:172px;
+}
+*{
+    text-transform: none;
+  }
+

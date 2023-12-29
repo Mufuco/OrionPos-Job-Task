@@ -1,0 +1,9 @@
+.headerSpan{
+    margin-bottom: 5px;
+    display: block; /* Her kelimeyi yeni bir satıra yerleştirir */
+    letter-spacing: 5px; /* Harfler arasındaki boşluğu artırır */
+    font-size: 70px; /* Yazı karakterini büyütür */
+}
+.insideSpan{
+    margin-left: 50px;
+}

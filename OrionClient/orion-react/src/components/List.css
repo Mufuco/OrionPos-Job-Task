@@ -1,0 +1,40 @@
+.listDiv{
+    background-color: white;
+    border: none;
+    
+}
+.table-container {
+    margin-top: 5%;
+    height: 100vh;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: #EBEDF3!important;
+    color:#A9AAAD!important;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    text-align: center;
+    position: relative;
+  }
+  
+  th input[type="radio"], td input[type="radio"] {
+    width: 16px !important;
+    height: 16px!important;
+    border-radius: 0!important; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)!important;
+  }
+  
+  .font-weight-bold {
+    font-weight: bold;
+  }
+  
+  
+  

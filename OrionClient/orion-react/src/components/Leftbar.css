@@ -1,0 +1,31 @@
+#split-button{
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    text-align: left;
+  }
+  #dropdown-basic{
+    background-color: #030304;
+    height: 100vh;
+  }
+  .dropdown-item {
+    color: white;
+    height: 100%;
+  }
+  
+  .dropdown-menu {
+    background-color: #303641;
+    border-top-color: white; 
+    border-bottom-color: white; 
+    border-width: 2px;
+    border-radius: 0;
+    width:100%;
+  }
+  .dropdown-wrapper {
+    display: flex;
+   }
+
+   .my-dropdown-item {
+    width: 100%;
+   }
+  

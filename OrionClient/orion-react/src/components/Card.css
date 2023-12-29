@@ -1,0 +1,14 @@
+
+  .cardDiv {
+    background-color: white;
+    border-color: white;
+  }
+  .card-title{
+    background-color: #89898B;
+  }
+  .card-body{
+    border:none;
+    background-color: #F5F5F7;
+    margin: 0;
+    padding: 0;
+  }
